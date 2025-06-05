@@ -9,7 +9,6 @@
 I’m passionate about turning complex problems into simple, elegant solutions. Currently pursuing my degree in IT Engineering, I strive to bridge the gap between technology and user experience through robust code and thoughtful design.
 
 ![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQH_Eq6Re_006g/profile-displayphoto-shrink_800_800/B56ZaFkiUsGkAg-/0/1745997670315?e=1754524800&v=beta&t=95j7Auss8x3laWRbZX9FCbKWN9WUY6OwQ7fpuJMvriI)
-![image](https://github.com/user-attachments/assets/a15268c2-c959-45f0-b612-ccf64a8d20e7)
 
 
 ---
@@ -27,6 +26,10 @@ I’m passionate about turning complex problems into simple, elegant solutions. 
 
 - **Department Store Management System (C++)**  
   A complete system to manage inventory, sales, and staff.
+
+- **🔐 Number Theory and Cryptography**
+  An interactive website that explores the fundamental concepts of number theory and their applications in modern cryptography. Includes clear explanations, practical examples, and live demos to illustrate key algorithms such as prime      factorization, modular arithmetic, and encryption methods. The project also features intuitive navigation and routing for a smooth learning experience.
+  [View Project](https://ite-year2-cryptography.vercel.app/)
 
 <!--
 - **E-Learning Platform (Vue.js)**  
