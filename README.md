@@ -8,7 +8,7 @@
 
 I’m passionate about turning complex problems into simple, elegant solutions. Currently pursuing my degree in IT Engineering, I strive to bridge the gap between technology and user experience through robust code and thoughtful design.
 
-![Profile Picture](https://media.licdn.com/dms/image/v2/D5603AQH_Eq6Re_006g/profile-displayphoto-shrink_800_800/B56ZaFkiUsGkAg-/0/1745997670315?e=1754524800&v=beta&t=95j7Auss8x3laWRbZX9FCbKWN9WUY6OwQ7fpuJMvriI)
+![Profile Picture](htts://media.licdn.com/dms/image/v2/D5603AQH_Eq6Re_006g/profile-displayphoto-shrink_800_800/B56ZaFkiUsGkAg-/0/1745997670315?e=1754524800&v=beta&t=95j7Auss8x3laWRbZX9FCbKWN9WUY6OwQ7fpuJMvriI)
 
 
 ---
