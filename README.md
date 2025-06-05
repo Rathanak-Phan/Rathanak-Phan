@@ -33,8 +33,8 @@ I’m passionate about turning complex problems into simple, elegant solutions. 
 
 ## 📫 Connect with Me
 
-- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/rathanak-phan-9312aa348/)
-- [GitHub]([your-github-url](https://github.com/Rathanak-Phan)
+- [LinkedIn](https://www.linkedin.com/in/rathanak-phan-9312aa348/)
+- [GitHub](https://github.com/Rathanak-Phan)
 - [Facebook](https://web.facebook.com/ratanak.phan.963)
 - [Personal Website](your-website-url)
 
