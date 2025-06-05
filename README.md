@@ -27,7 +27,7 @@ I’m passionate about turning complex problems into simple, elegant solutions. 
 - **Department Store Management System (C++)**  
   A complete system to manage inventory, sales, and staff.
 
-- **🔐 Number Theory and Cryptography**
+- **🔐 Number Theory and Cryptography **
   An interactive website that explores the fundamental concepts of number theory and their applications in modern cryptography. Includes clear explanations, practical examples, and live demos to illustrate key algorithms such as prime      factorization, modular arithmetic, and encryption methods. The project also features intuitive navigation and routing for a smooth learning experience.
   [View Project](https://ite-year2-cryptography.vercel.app/)
 
