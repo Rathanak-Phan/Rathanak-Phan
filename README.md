@@ -36,9 +36,9 @@ I’m passionate about turning complex problems into simple, elegant solutions. 
 
 ## 📫 Connect with Me
 
+- [Facebook](https://web.facebook.com/ratanak.phan.963)
 - [LinkedIn](https://www.linkedin.com/in/rathanak-phan-9312aa348/)
 - [GitHub](https://github.com/Rathanak-Phan)
-- [Facebook](https://web.facebook.com/ratanak.phan.963)
 - [Personal Website](your-website-url)
 
 ---
