@@ -23,16 +23,19 @@ I’m passionate about turning complex problems into simple, elegant solutions. 
 - **Department Store Management System (C++)**  
   A complete system to manage inventory, sales, and staff.
 
+<!--
 - **E-Learning Platform (Vue.js)**  
   A platform allowing students to sign up for courses and take quizzes.  
   [View Project](add-your-link-here)
+-->
 
 ---
 
 ## 📫 Connect with Me
 
-- [LinkedIn](your-linkedin-url)
-- [GitHub](your-github-url)
+- [LinkedIn]([your-linkedin-url](https://www.linkedin.com/in/rathanak-phan-9312aa348/)
+- [GitHub]([your-github-url](https://github.com/Rathanak-Phan)
+- [Facebook](https://web.facebook.com/ratanak.phan.963)
 - [Personal Website](your-website-url)
 
 ---
