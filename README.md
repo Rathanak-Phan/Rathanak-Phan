@@ -16,25 +16,37 @@ I’m a passionate and curious tech enthusiast currently pursuing my Bachelor's 
 
 ## 🚀 Skills
 
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
 ### 🧠 Programming Languages
 - C / C++
 - HTML / CSS / JavaScript
 
-### 🛠️ Frameworks & Libraries
-- React.js
-- Vue.js
-- Node.js
-- Express (basic)
-
 ### 🎨 UI/UX Design
-- Figma
-- Wireframing & Prototyping
+- Figma  
+- Wireframing & Prototyping  
 - Responsive Web Design
 
+</td>
+    <td valign="top" width="50%">
+
+### 🛠️ Frameworks & Libraries
+- React.js  
+- Vue.js  
+- Node.js  
+- Express (basic)
+
 ### 🌐 Networking & Systems
-- Basic Networking
-- OS Fundamentals
+- Basic Networking  
+- OS Fundamentals  
 - Git & GitHub
+
+</td>
+  </tr>
+</table>
+
 
 ---
 
