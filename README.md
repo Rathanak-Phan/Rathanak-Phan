@@ -59,6 +59,7 @@ I’m a passionate and curious tech enthusiast currently pursuing my Bachelor's 
 
 ### 🔹 [Number Theory and Cryptography](https://ite-year2-cryptography.vercel.app/)
   &nbsp;&nbsp;&nbsp;&nbsp;An educational website that visualizes core cryptographic concepts like modular arithmetic, RSA, and more using interactive demos and clean UI.  
+  &nbsp;&nbsp;&nbsp;&nbsp;🛠️ *Still in development...*  
   &nbsp;&nbsp;&nbsp;&nbsp;[🔗 View Project](https://ite-year2-cryptography.vercel.app/)
 
 ### 🔹 [Department Store Management System (C++)](https://github.com/Rathanak-Phan/cpp-file-crud)
