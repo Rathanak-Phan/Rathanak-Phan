@@ -52,31 +52,24 @@ I’m a passionate and curious tech enthusiast currently pursuing my Bachelor's 
 
 ## 🌟 Featured Projects
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+> ### 🔹 [E-Learning Platform (Vue.js)](https://e-learning-platform-khaki-two.vercel.app/)
+> *A Vue-based web app for course enrollment, quizzes, and progress tracking.*  
+> 🛠️ *Still in development...*  
+> [🔗 View Project](https://e-learning-platform-khaki-two.vercel.app/)
 
-### 🔹 [E-Learning Platform (Vue.js)](https://e-learning-platform-khaki-two.vercel.app/)
-&nbsp;&nbsp;&nbsp;&nbsp;*A Vue-based web app for course enrollment, quizzes, and progress tracking.*  
-&nbsp;&nbsp;&nbsp;&nbsp;🛠️ *Still in development...*  
-&nbsp;&nbsp;&nbsp;&nbsp;[🔗 View Project](https://e-learning-platform-khaki-two.vercel.app/)
+---
 
-</div>
+> ### 🔹 [Number Theory and Cryptography](https://ite-year2-cryptography.vercel.app/)
+> An educational website that visualizes core cryptographic concepts like modular arithmetic, RSA, and more using interactive demos and clean UI.  
+> 🛠️ *Still in development...*  
+> [🔗 View Project](https://ite-year2-cryptography.vercel.app/)
 
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
+---
 
-### 🔹 [Number Theory and Cryptography](https://ite-year2-cryptography.vercel.app/)
-&nbsp;&nbsp;&nbsp;&nbsp;An educational website that visualizes core cryptographic concepts like modular arithmetic, RSA, and more using interactive demos and clean UI.  
-&nbsp;&nbsp;&nbsp;&nbsp;🛠️ *Still in development...*  
-&nbsp;&nbsp;&nbsp;&nbsp;[🔗 View Project](https://ite-year2-cryptography.vercel.app/)
+> ### 🔹 [Department Store Management System (C++)](https://github.com/Rathanak-Phan/cpp-file-crud)
+> A console-based CRUD system for managing a department store’s inventory, staff, and transactions.  
+> [🔗 View Project](https://github.com/Rathanak-Phan/cpp-file-crud)
 
-</div>
-
-<div style="border: 1px solid #ccc; border-radius: 8px; padding: 16px; margin-bottom: 16px;">
-
-### 🔹 [Department Store Management System (C++)](https://github.com/Rathanak-Phan/cpp-file-crud)
-&nbsp;&nbsp;&nbsp;&nbsp;A console-based CRUD system for managing a department store’s inventory, staff, and transactions.  
-&nbsp;&nbsp;&nbsp;&nbsp;[🔗 View Project](https://github.com/Rathanak-Phan/cpp-file-crud)
-
-</div>
 
 
 ---
