@@ -17,7 +17,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/Rathanak-Phan" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="30" alt="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="30" alt="GitHub" style="filter: invert(1);" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:rathanak.dev.kh@gmail.com">
