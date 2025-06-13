@@ -6,25 +6,6 @@
 
 🎓 **IT Engineering Student** | 💻 **Full-Stack Developer** | 🎯 **Problem Solver**
 
-<!-- Social Media Icons -->
-<p align="center">
-  <a href="https://web.facebook.com/ratanak.phan.963" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733547.png" width="30" alt="Facebook" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/rathanak-phan-9312aa348/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/Rathanak-Phan" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733609.png" width="30" alt="GitHub" style="filter: invert(1);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:rathanak.dev.kh@gmail.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" alt="Email" />
-  </a>
-</p>
-
 </div>
 
 ---
