@@ -79,7 +79,62 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 
 </div>
 
+<!--
 ---
+
+## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="300px" align="center">
+        <div style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 10px; background-color: #0d1117;">
+          <h3>🎓 E-Learning Platform</h3>
+          <p><em>Vue-based web app for course enrollment, quizzes, and progress tracking</em></p>
+          <p><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
+             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
+             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/></p>
+          <p>🚧 <em>In Development</em></p>
+          <a href="https://e-learning-platform-khaki-two.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge" alt="Live Demo"/>
+          </a>
+        </div>
+      </td>
+      <td width="300px" align="center">
+        <div style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 10px; background-color: #0d1117;">
+          <h3>🔐 Cryptography Visualizer</h3>
+          <p><em>Educational website visualizing cryptographic concepts with interactive demos</em></p>
+          <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
+             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
+             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></p>
+          <p>🚧 <em>In Development</em></p>
+          <a href="https://ite-year2-cryptography.vercel.app/">
+            <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge" alt="Live Demo"/>
+          </a>
+        </div>
+      </td>
+    </tr>
+    <tr>
+      <td width="300px" align="center">
+        <div style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 10px; background-color: #0d1117;">
+          <h3>🏪 Store Management System</h3>
+          <p><em>Console-based CRUD system for inventory and transaction management</em></p>
+          <p><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></p>
+          <p>✅ <em>Complete</em></p>
+          <a href="https://github.com/Rathanak-Phan/cpp-file-crud">
+            <img src="https://img.shields.io/badge/Source_Code-4ECDC4?style=for-the-badge" alt="Source Code"/>
+          </a>
+        </div>
+      </td>
+      <td width="300px" align="center">
+      </td>
+    </tr>
+  </table>
+</div>
+-->
+---
+
+
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Currently Learning
 
@@ -135,3 +190,4 @@ I'm always excited to work on:
 ⭐️ *From [Rathanak Phan](https://github.com/Rathanak-Phan) with ❤️*
 
 </div>
+
