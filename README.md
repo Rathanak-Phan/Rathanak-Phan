@@ -11,6 +11,11 @@
 ---
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> About Me
+<br/>
+<div align="center">
+  <img src="https://media.licdn.com/dms/image/v2/D5603AQH_Eq6Re_006g/profile-displayphoto-shrink_800_800/B56ZaFkiUsGkAg-/0/1745997670315?e=1755129600&v=beta&t=ey4P1SsS6Lk_iz_VbIC-5HNBZyhLD2dXVLSF7S2QQ_s" width="250" alt="About Me Image" />
+</div><br/>
+
 
 I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's degree in Information Technology Engineering**. I enjoy solving real-world problems with clean, scalable, and efficient code. My goal is to become a skilled full-stack developer who creates meaningful digital experiences that balance functionality with user-centric design.
 
