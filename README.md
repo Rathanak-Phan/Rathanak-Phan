@@ -16,6 +16,12 @@
   <img src="https://media.licdn.com/dms/image/v2/D5603AQH_Eq6Re_006g/profile-displayphoto-shrink_800_800/B56ZaFkiUsGkAg-/0/1745997670315?e=1755129600&v=beta&t=ey4P1SsS6Lk_iz_VbIC-5HNBZyhLD2dXVLSF7S2QQ_s" width="250" alt="About Me Image" />
 </div><br/>
 
+<div align="center">
+
+🚀 [Visit My Portfolio](https://github.com/Rathanak-Phan/)
+
+</div>
+
 
 I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's degree in Information Technology Engineering**. I enjoy solving real-world problems with clean, scalable, and efficient code. My goal is to become a skilled full-stack developer who creates meaningful digital experiences that balance functionality with user-centric design.
 
