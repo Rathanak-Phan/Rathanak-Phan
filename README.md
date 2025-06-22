@@ -2,7 +2,7 @@
 
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=IT+Engineering+Student;Aspiring+Full-Stack+Developer;Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&center=true&vCenter=true&width=500&lines=👨‍💻+IT+Engineering+Student;🌐+Aspiring+Full-Stack+Developer;🧠+Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
 🎓 **IT Engineering Student** | 💻 **Full-Stack Developer** | 🎯 **Problem Solver**
 
@@ -14,6 +14,7 @@
  
 <div align="center">
   <img src="https://media.licdn.com/dms/image/v2/D5603AQH_Eq6Re_006g/profile-displayphoto-shrink_800_800/B56ZaFkiUsGkAg-/0/1745997670315?e=1755129600&v=beta&t=ey4P1SsS6Lk_iz_VbIC-5HNBZyhLD2dXVLSF7S2QQ_s" width="250" alt="About Me Image" />
+
 </div><br/>
 
 <div align="center">
