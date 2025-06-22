@@ -132,9 +132,6 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
   </kbd>
 </div>
 
-<img src="./assets/border_separator.gif">
-
-
 ---
 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
@@ -240,6 +237,7 @@ const currentlyLearning = {
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
 
+<img src="./assets/border_separator.gif">
 <div align="center">
   <h3>📄 Profile Info</h3>
 
@@ -288,7 +286,7 @@ const currentlyLearning = {
      </div>
   </kbd>
 </div>
-
+<img src="./assets/border_separator.gif">
 
 ---
 
