@@ -36,29 +36,104 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
 
+<!-- 🚀 Technologies and Tools -->
+
 <div align="center">
+<!--   <h3>🚀 Technologies and Tools</h3> -->
 
-### 💻 Programming Languages
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>🧠 Programming Languages</strong>
+        <br>
+        <hr width="675">
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,java,py&perline=10" />
+        </a>
+      </p>
+    </div>
+  </kbd>
 
-### 🚀 Frameworks & Libraries
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>📦 Frameworks, Libraries & Databases</strong>
+        <br>
+        <hr width="675">
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,tailwind,bootstrap,mysql,mongodb,vite&perline=10" />
+        </a>
+      </p>
+    </div>
+  </kbd>
 
-###
- 🎨 Design & Tools
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>☁️ DevOps & Deployment</strong>
+        <br>
+        <hr width="675">
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=github,vercel,netlify,cloudflare,githubactions&perline=10" />
+        </a>
+      </p>
+    </div>
+  </kbd>
 
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>💻 Operating Systems & Platforms</strong>
+        <br>
+        <hr width="675">
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10" />
+        </a>
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>🧰 IDEs & Tools</strong>
+        <br>
+        <hr width="675">
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=vscode,postman,git&perline=10" />
+        </a>
+      </p>
+    </div>
+  </kbd>
+
+  <kbd>
+    <div align="center">
+      <p>
+        <br>
+        <strong>🎨 UI/UX & Design</strong>
+        <br>
+        <hr width="675">
+        <br>
+        <a href="https://skillicons.dev">
+          <img src="https://skillicons.dev/icons?i=figma,photoshop&perline=10" />
+        </a>
+      </p>
+    </div>
+  </kbd>
 </div>
+
+<img src="./assets/border_separator.gif">
+
 
 ---
 
@@ -166,13 +241,54 @@ const currentlyLearning = {
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
 
 <div align="center">
+  <h3>📄 Profile Info</h3>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rathanak-phan-9312aa348/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Rathanak-Phan)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/ratanak.phan.kh)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rathanak.dev.kh@gmail.com)
+  <kbd>
+     <div align="center">
+         <p>
+         <br>
+         <strong>📬 Contact Me</strong>
+         <br><br>
+         <a href="mailto:rathanak.dev.kh@gmail.com">
+            <img src="https://skillicons.dev/icons?i=gmail" />
+         </a>
+         <a href="https://github.com/Rathanak-Phan">
+            <img src="https://skillicons.dev/icons?i=github" />
+         </a>
+         <a href="https://www.linkedin.com/in/rathanak-phan-9312aa348/">
+            <img src="https://skillicons.dev/icons?i=linkedin" />
+         </a>
+         <a href="https://web.facebook.com/ratanak.phan.kh">
+          <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/facebook/facebook-original.svg" width="36px" height="36px" />
+        </a>
+         </p>
+     </div>
+  </kbd>
 
+  <kbd>
+     <div align="center">
+         <p>
+         <br> 
+         <strong>👀 Profile Views</strong>
+         <br><br>
+         <img src="https://profile-counter.glitch.me/Rathanak-Phan/count.svg" width="350px" />
+         </p>
+     </div>
+  </kbd>
+
+  <kbd>
+     <div align="center">
+         <p>
+         <br>
+         <strong>👥 Followers Count</strong>
+         <br><br><br>
+         <img src="https://img.shields.io/github/followers/Rathanak-Phan?label=Followers&style=social" alt="followers-count" width="150px"> 
+         <br><br>
+         </p>
+     </div>
+  </kbd>
 </div>
+
 
 ---
 
