@@ -317,3 +317,11 @@ I'm always excited to work on:
 
 </div>
 
+<img
+  src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&text=Rathanak%20Phna&section=footer&strokeWidth=1&fontAlign=50&animation=scaleIn&fontSize=28&textBg=false&rotate=0&reversal=true"
+  alt="Rathanak Phna Banner"
+  style="width: 100%;"
+/>
+
+
+
