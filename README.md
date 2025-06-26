@@ -137,16 +137,15 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 ## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathanak-Phan&theme=tokyonight&hide_border=true" width="48%" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
-<img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&row=1&column=6" width="48%" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathanak-Phan&theme=tokyonight&hide_border=true" alt="Rathanak-Phan's streak"/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=Rathanak-Phan&color=blueviolet&style=flat-square&label=Profile+Views)
+<img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Rathanak-Phan's trophies"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
 
 </div>
 
