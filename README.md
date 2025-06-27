@@ -46,7 +46,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
     <div align="center">
       <p>
         <br>
-        <strong>🧠 Programming Languages</strong>
+        <h1 align="start">🧠 Programming Languages</h1>
         <br>
         <hr width="675">
         <br>
@@ -61,7 +61,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
     <div align="center">
       <p>
         <br>
-        <strong>📦 Frameworks, Libraries & Databases</strong>
+        <h1 align="start">📦 Frameworks, Libraries & Databases</h1>
         <br>
         <hr width="675">
         <br>
@@ -76,7 +76,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
     <div align="center">
       <p>
         <br>
-        <strong>☁️ DevOps & Deployment</strong>
+        <h1 align="start">☁️ DevOps & Deployment</h1>
         <br>
         <hr width="675">
         <br>
@@ -91,7 +91,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
     <div align="center">
       <p>
         <br>
-        <strong>💻 Operating Systems & Platforms</strong>
+        <h1 align="start">💻 Operating Systems & Platforms</h1>
         <br>
         <hr width="675">
         <br>
@@ -106,7 +106,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
     <div align="center">
       <p>
         <br>
-        <strong>🧰 IDEs & Tools</strong>
+        <h1 align="start">🧰 IDEs & Tools</h1>
         <br>
         <hr width="675">
         <br>
@@ -121,7 +121,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
     <div align="center">
       <p>
         <br>
-        <strong>🎨 UI/UX & Design</strong>
+        <h1 align="start">🎨 UI/UX & Design</h1>
         <br>
         <hr width="675">
         <br>
