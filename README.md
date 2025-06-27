@@ -48,11 +48,10 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <br>
         <h1 align="start">🧠 Programming Languages</h1>
         <br>
-        <hr width="675">
-        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,java,py&perline=10" />
         </a>
+        <hr width="675">
       </p>
     </div>
   </kbd>
