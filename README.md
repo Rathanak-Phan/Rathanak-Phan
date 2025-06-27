@@ -4,7 +4,8 @@
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7CFC00&center=true&vCenter=true&width=500&lines=👨‍💻+IT+Engineering+Student;🌐+Aspiring+Full-Stack+Developer;🧠+Problem+Solver+%26+Tech+Enthusiast)](https://git.io/typing-svg)
 
-🎓 **IT Engineering Student** | 💻 **Full-Stack Developer** | 🎯 **Problem Solver**
+🎓 **IT Engineering Student** | 💻 **
+Full-Stack Developer** | 🎯 **Problem Solver**
 
 </div>
 
@@ -138,14 +139,20 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=14400" height="180em" alt="GitHub Stats" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathanak-Phan&theme=tokyonight&hide_border=true" alt="Rathanak-Phan's streak"/>
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=14400" height="180em" alt="Top Languages" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="Rathanak-Phan's trophies"/>
+<!-- GitHub Streak -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathanak-Phan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" />
+<!-- GitHub Trophies -->
+<img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+
+<!-- Contribution Graph -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
 
 </div>
 
