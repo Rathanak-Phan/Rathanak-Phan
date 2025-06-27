@@ -51,7 +51,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=c,cpp,js,html,css,java,py&perline=10" />
         </a>
-        <hr width="675">
+        <hr width="700">
       </p>
     </div>
   </kbd>
@@ -62,11 +62,10 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <br>
         <h1 align="start">📦 Frameworks, Libraries & Databases</h1>
         <br>
-        <hr width="675">
-        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=vue,react,nodejs,express,tailwind,bootstrap,mysql,mongodb,vite&perline=10" />
         </a>
+        <hr width="700">
       </p>
     </div>
   </kbd>
@@ -77,11 +76,10 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <br>
         <h1 align="start">☁️ DevOps & Deployment</h1>
         <br>
-        <hr width="675">
-        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=github,vercel,netlify,cloudflare,githubactions&perline=10" />
         </a>
+        <hr width="700">
       </p>
     </div>
   </kbd>
@@ -92,11 +90,10 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <br>
         <h1 align="start">💻 Operating Systems & Platforms</h1>
         <br>
-        <hr width="675">
-        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows&perline=10" />
         </a>
+        <hr width="700">
       </p>
     </div>
   </kbd>
@@ -107,11 +104,10 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <br>
         <h1 align="start">🧰 IDEs & Tools</h1>
         <br>
-        <hr width="675">
-        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=vscode,postman,git&perline=10" />
         </a>
+        <hr width="700">
       </p>
     </div>
   </kbd>
@@ -122,11 +118,10 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
         <br>
         <h1 align="start">🎨 UI/UX & Design</h1>
         <br>
-        <hr width="675">
-        <br>
         <a href="https://skillicons.dev">
           <img src="https://skillicons.dev/icons?i=figma,photoshop&perline=10" />
         </a>
+        <hr width="700">
       </p>
     </div>
   </kbd>
