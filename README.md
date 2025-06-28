@@ -33,6 +33,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 - 💬 Ask me about **Web Development**, **UI/UX Design**, and **Programming**
 - ⚡ Fun fact: I love solving logic puzzles and teaching tech concepts!
 
+
 ---
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="25"> Tech Stack
