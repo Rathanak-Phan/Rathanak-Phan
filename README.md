@@ -220,9 +220,33 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 -->
 ---
 
-
-
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Currently Learning
+
+### 💻 Backend
+- [Node.js](https://nodejs.org/)
+- [Express.js](https://expressjs.com/)
+- [RESTful APIs](https://restfulapi.net/)
+
+### 🗃️ Database
+- [MongoDB](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
+
+### 🔐 Authentication
+- [JWT (JSON Web Tokens)](https://jwt.io/)
+- [OAuth](https://oauth.net/)
+
+### ☁️ Deployment
+- [Docker](https://www.docker.com/)
+- [Cloud Services](https://aws.amazon.com/free/) *(e.g., AWS, GCP, Azure)*
+
+### 🧪 Testing
+- [Jest](https://jestjs.io/)
+- [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
+
+---
+
+<details>
+<summary>📦 Code Version (click to expand)</summary>
 
 ```javascript
 const currentlyLearning = {
@@ -233,6 +257,7 @@ const currentlyLearning = {
     testing: ["Jest", "Unit Testing"]
 };
 ```
+</details>
 
 ---
 
