@@ -222,6 +222,19 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Currently Learning
 
+```javascript
+const currentlyLearning = {
+    backend: ["Node.js", "Express.js", "RESTful APIs"],
+    database: ["MongoDB", "Mongoose"],
+    authentication: ["JWT", "OAuth"],
+    deployment: ["Docker", "Cloud Services"],
+    testing: ["Jest", "Unit Testing"]
+};
+```
+<details>
+
+<summary>📦 Code Version (click to expand)</summary>
+  
 ### 💻 Backend
 - [Node.js](https://nodejs.org/)
 - [Express.js](https://expressjs.com/)
@@ -242,21 +255,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 ### 🧪 Testing
 - [Jest](https://jestjs.io/)
 - [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
-
----
-
-<details>
-<summary>📦 Code Version (click to expand)</summary>
-
-```javascript
-const currentlyLearning = {
-    backend: ["Node.js", "Express.js", "RESTful APIs"],
-    database: ["MongoDB", "Mongoose"],
-    authentication: ["JWT", "OAuth"],
-    deployment: ["Docker", "Cloud Services"],
-    testing: ["Jest", "Unit Testing"]
-};
-```
+  
 </details>
 
 ---
