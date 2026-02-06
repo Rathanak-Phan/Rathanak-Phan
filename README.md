@@ -130,28 +130,27 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
+## GitHub Stats
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight" height="180em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&theme=tokyonight" height="180em" />
+</p>
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&cache_seconds=14400" height="180em" alt="GitHub Stats" />
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Rathanak-Phan&theme=tokyonight" />
+</p>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&cache_seconds=14400" height="180em" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&margin-w=10" />
+</p>
 
-<!-- GitHub Streak -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Rathanak-Phan&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-<!-- GitHub Trophies -->
-<img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-
-<!-- Contribution Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night&hide_border=true&custom_title=Contribution%20Graph" alt="Contribution Graph" />
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night" />
+</p>
 
 ---
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
 
