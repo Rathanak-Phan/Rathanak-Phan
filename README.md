@@ -130,23 +130,14 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 
 ---
 
-## GitHub Stats
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&theme=tokyonight" height="180em" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Rathanak-Phan&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rathanak-Phan&theme=tokyonight&no-frame=true&margin-w=10" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night" />
+  <img
+    src="./profile/stats.svg"
+    width="100%"
+    alt="Rathanak-Phan GitHub Statistics"
+  >
 </p>
 
 ---
@@ -157,105 +148,57 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 <div align="center">
 
 | Project | Description | Tech Stack | Status | Links |
-|---------|-------------|------------|--------|-------|
-| **🎓 E-Learning Platform** | Vue-based web app for course enrollment, quizzes, and progress tracking | Vue.js, JavaScript, CSS | 🚧 In Development | [🌐 Live](https://e-learning-platform-khaki-two.vercel.app/) |
-| **🔐 Cryptography Visualizer** | Educational website visualizing cryptographic concepts with interactive demos | HTML, CSS, JavaScript | 🚧 In Development | [🌐 Live](https://ite-year2-cryptography.vercel.app/) |
-| **🏪 Store Management System** | Console-based CRUD system for inventory and transaction management | C++ | ✅ Complete | [📁 Code](https://github.com/Rathanak-Phan/cpp-file-crud) |
+|---|---|---|---|---|
+| **E-Learning Platform** | Full-stack platform for enrollment, quizzes, video lectures, assignments, and progress tracking. | Vue.js, Node.js, Express.js, MySQL, JWT | 🚧 In Development | [GitHub Profile](https://github.com/Rathanak-Phan) |
+| **Cryptography Visualizer** | Interactive educational app for learning and visualizing cryptographic algorithms and concepts. | HTML, CSS, JavaScript | 🚧 In Development | [Live](https://ite-year2-cryptography.vercel.app/) |
+| **Store Management System** | Console CRUD application for inventory, products, and transactions using file handling. | C++ | ✅ Complete | [Source Code](https://github.com/Rathanak-Phan/cpp-file-crud) |
+| **Online Quiz Maker** | Web app for creating, managing, and taking quizzes with authentication and database integration. | Next.js, TypeScript, MongoDB, NextAuth, Tailwind CSS | 🚧 In Development | [GitHub](https://github.com/Rathanak-Phan/online-quizzes-maker) |
+| **Student Tracking System** | Student management system for records, attendance, and academic progress. | Laravel, MySQL, React | 📚 Learning / Development | [GitHub Profile](https://github.com/Rathanak-Phan) |
 
 </div>
 
-<!--
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
-
-<div align="center">
-  <table>
-    <tr>
-      <td width="300px" align="center">
-        <div style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 10px; background-color: #0d1117;">
-          <h3>🎓 E-Learning Platform</h3>
-          <p><em>Vue-based web app for course enrollment, quizzes, and progress tracking</em></p>
-          <p><img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" alt="Vue.js"/>
-             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/>
-             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/></p>
-          <p>🚧 <em>In Development</em></p>
-          <a href="https://e-learning-platform-khaki-two.vercel.app/">
-            <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge" alt="Live Demo"/>
-          </a>
-        </div>
-      </td>
-      <td width="300px" align="center">
-        <div style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 10px; background-color: #0d1117;">
-          <h3>🔐 Cryptography Visualizer</h3>
-          <p><em>Educational website visualizing cryptographic concepts with interactive demos</em></p>
-          <p><img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML"/>
-             <img src="https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS"/>
-             <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript"/></p>
-          <p>🚧 <em>In Development</em></p>
-          <a href="https://ite-year2-cryptography.vercel.app/">
-            <img src="https://img.shields.io/badge/Live_Demo-FF6B6B?style=for-the-badge" alt="Live Demo"/>
-          </a>
-        </div>
-      </td>
-    </tr>
-    <tr>
-      <td width="300px" align="center">
-        <div style="border: 1px solid #30363d; border-radius: 8px; padding: 15px; margin: 10px; background-color: #0d1117;">
-          <h3>🏪 Store Management System</h3>
-          <p><em>Console-based CRUD system for inventory and transaction management</em></p>
-          <p><img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++"/></p>
-          <p>✅ <em>Complete</em></p>
-          <a href="https://github.com/Rathanak-Phan/cpp-file-crud">
-            <img src="https://img.shields.io/badge/Source_Code-4ECDC4?style=for-the-badge" alt="Source Code"/>
-          </a>
-        </div>
-      </td>
-      <td width="300px" align="center">
-      </td>
-    </tr>
-  </table>
-</div>
--->
 ---
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Currently Learning
 
-```javascript
-const currentlyLearning = {
-    backend: ["Node.js", "Express.js", "RESTful APIs"],
-    database: ["MongoDB", "Mongoose"],
-    authentication: ["JWT", "OAuth"],
-    deployment: ["Docker", "Cloud Services"],
-    testing: ["Jest", "Unit Testing"]
-};
-```
-<details>
+I’m currently learning and practicing **Full-Stack Web Development**, building from frontend foundations through backend services, data, authentication, deployment, and testing.
 
-<summary>📦 Code Version (click to expand)</summary>
-  
-### 💻 Backend
-- [Node.js](https://nodejs.org/)
-- [Express.js](https://expressjs.com/)
-- [RESTful APIs](https://restfulapi.net/)
+**Learning path:** React / Vue.js → Node.js / Express.js / NestJS → PostgreSQL / MySQL / MongoDB → JWT / OAuth → Docker / GitHub Actions → Jest / API Testing
 
-### 🗃️ Database
-- [MongoDB](https://www.mongodb.com/)
-- [Mongoose](https://mongoosejs.com/)
+### ⚙️ Backend
+- Node.js
+- Express.js
+- NestJS
+- RESTful APIs
+
+### 🗄️ Database
+- PostgreSQL
+- MySQL
+- MongoDB
+- Prisma ORM
 
 ### 🔐 Authentication
-- [JWT (JSON Web Tokens)](https://jwt.io/)
-- [OAuth](https://oauth.net/)
+- JWT
+- OAuth 2.0
+- Session Authentication
 
-### ☁️ Deployment
-- [Docker](https://www.docker.com/)
-- [Cloud Services](https://aws.amazon.com/free/) *(e.g., AWS, GCP, Azure)*
+### 🚀 DevOps
+- Docker
+- GitHub Actions
+- CI/CD
+- Cloud Deployment
 
 ### 🧪 Testing
-- [Jest](https://jestjs.io/)
-- [Unit Testing](https://en.wikipedia.org/wiki/Unit_testing)
-  
-</details>
+- Jest
+- Unit Testing
+- API Testing
+- Postman
+- Insomnia
+
+### 🎨 Frontend
+- React
+- Vue.js
+- Tailwind CSS
 
 ---
 
@@ -324,6 +267,7 @@ const currentlyLearning = {
 
 ---
 
+
 ## <img src="https://media.giphy.com/media/3oKIPKOgIDNa3roJWg/giphy.gif" width="25"> Let's Collaborate!
 
 I'm always excited to work on:
@@ -347,6 +291,3 @@ I'm always excited to work on:
   alt="Rathanak Phna Banner"
   style="width: 100%;"
 />
-
-
-

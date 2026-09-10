@@ -1,0 +1,43 @@
+name: Update GitHub statistics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - ITE
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Generate statistics dashboard
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: node scripts/generate-stats.js
+
+      - name: Validate generated SVG
+        run: node --input-type=module -e "const svg = await (await import('node:fs/promises')).readFile('profile/stats.svg', 'utf8'); if (!svg.startsWith('<svg') || !svg.includes('</svg>')) throw new Error('profile/stats.svg is not a valid SVG document');"
+
+      - name: Commit updated dashboard
+        run: |
+          git add profile/stats.svg
+          if git diff --cached --quiet; then
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: update GitHub statistics"
+          git push
