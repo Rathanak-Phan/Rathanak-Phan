@@ -128,79 +128,90 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
   </kbd>
 </div>
 
----
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    width="100%"
-    alt="Rathanak-Phan GitHub Statistics"
-  >
-</p>
-
----
-
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Featured Projects
+# 📊 GitHub Statistics
 
 <div align="center">
 
-| Project | Description | Tech Stack | Status | Links |
-|---|---|---|---|---|
-| **E-Learning Platform** | Full-stack platform for enrollment, quizzes, video lectures, assignments, and progress tracking. | Vue.js, Node.js, Express.js, MySQL, JWT | 🚧 In Development | [GitHub Profile](https://github.com/Rathanak-Phan) |
-| **Cryptography Visualizer** | Interactive educational app for learning and visualizing cryptographic algorithms and concepts. | HTML, CSS, JavaScript | 🚧 In Development | [Live](https://ite-year2-cryptography.vercel.app/) |
-| **Store Management System** | Console CRUD application for inventory, products, and transactions using file handling. | C++ | ✅ Complete | [Source Code](https://github.com/Rathanak-Phan/cpp-file-crud) |
-| **Online Quiz Maker** | Web app for creating, managing, and taking quizzes with authentication and database integration. | Next.js, TypeScript, MongoDB, NextAuth, Tailwind CSS | 🚧 In Development | [GitHub](https://github.com/Rathanak-Phan/online-quizzes-maker) |
-| **Student Tracking System** | Student management system for records, attendance, and academic progress. | Laravel, MySQL, React | 📚 Learning / Development | [GitHub Profile](https://github.com/Rathanak-Phan) |
+<img
+  src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  height="170"
+/>
+
+<img
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rathanak-Phan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"
+  height="170"
+/>
 
 </div>
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="25"> Currently Learning
+## 🔥 Streak & Activity
 
-I’m currently learning and practicing **Full-Stack Web Development**, building from frontend foundations through backend services, data, authentication, deployment, and testing.
+<div align="center">
 
-**Learning path:** React / Vue.js → Node.js / Express.js / NestJS → PostgreSQL / MySQL / MongoDB → JWT / OAuth → Docker / GitHub Actions → Jest / API Testing
+<img
+  src="https://streak-stats.demolab.com?user=Rathanak-Phan&theme=tokyonight&hide_border=true"
+  height="170"
+/>
 
-### ⚙️ Backend
-- Node.js
-- Express.js
-- NestJS
-- RESTful APIs
+</div>
 
-### 🗄️ Database
-- PostgreSQL
-- MySQL
-- MongoDB
-- Prisma ORM
+<br>
 
-### 🔐 Authentication
-- JWT
-- OAuth 2.0
-- Session Authentication
+<div align="center">
 
-### 🚀 DevOps
-- Docker
-- GitHub Actions
-- CI/CD
-- Cloud Deployment
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=Rathanak-Phan&theme=tokyo-night&hide_border=true&area=true"
+  width="95%"
+/>
 
-### 🧪 Testing
-- Jest
-- Unit Testing
-- API Testing
-- Postman
-- Insomnia
-
-### 🎨 Frontend
-- React
-- Vue.js
-- Tailwind CSS
+</div>
 
 ---
+
+# 📈 GitHub Profile Summary
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Rathanak-Phan&theme=nord_dark"
+  width="32%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Rathanak-Phan&theme=nord_dark"
+  width="32%"
+/>
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Rathanak-Phan&theme=nord_dark"
+  width="32%"
+/>
+
+</div>
+
+<br>
+
+<details>
+<summary>📊 More GitHub Stats</summary>
+
+<br>
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rathanak-Phan&theme=nord_dark"
+  width="95%"
+/>
+
+</div>
+
+</details>
+
+---
+
 
 ## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="25"> Connect With Me
 
