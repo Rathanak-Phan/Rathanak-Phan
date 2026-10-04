@@ -134,7 +134,7 @@ I'm a passionate and curious tech enthusiast currently pursuing my **Bachelor's 
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"
+  src="https://github-readme-stats.vercel.app/api?username=Rathanak-Phan&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=default"
   height="170"
 />
 
